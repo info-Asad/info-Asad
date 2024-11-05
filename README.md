@@ -24,7 +24,7 @@
 - 👨‍💻 All of my projects are available at [https://info-asad.github.io/portfolio/](https://info-asad.github.io/portfolio/)
 <br>
 
-- 📫 How to reach me **asadazhar5612@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/i-m-asad-920686287/**
 <br>
 
 - ⚡ Fun fact **I Think I,M Funny⚡**
