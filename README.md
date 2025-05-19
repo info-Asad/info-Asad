@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hello, I'm Asad! 🚀</h1>
-  <h3>AI & Web Automation Developer | Flowise AI Guru | Full-Stack Visionary</h3>
+  <h3>AI & Web Automation Developer and A student | Flowise AI Guru | Full-Stack Visionary</h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B3cW1wM2RscGxqYjF0eTB5Y3Q3c3R3ZmRrbzVpbGZiZmM5ZXZ4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdN6YvO3w6I/giphy.gif" alt="Coding GIF" width="300" style="border-radius: 15px;" />
 </div>
  
@@ -45,7 +45,6 @@ I'm a **passionate innovator** who loves blending **AI**, **web development**, a
 
 - 🚀 Developed **scalable AI chatbots** integrated with **Supabase** and open-source LLMs, boosting efficiency for clients.
 - 🌍 Collaborated with **global clients** at **Lofty Logix**, enhancing UI/UX and web performance.
-- 📚 Inspired **30+ students** with digital literacy skills through engaging, gamified lessons.
 - ⚡ Delivered **offline-first apps**, ensuring seamless operation in low-connectivity environments.
 
 ---
