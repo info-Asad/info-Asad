@@ -14,7 +14,7 @@ I'm a **passionate innovator** who loves blending **AI**, **web development**, a
 - 🌐 **Web Dev Maestro**: Designing responsive, user-friendly interfaces using **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, and **React.js**.
 - ⚙️ **Automation Alchemist**: Streamlining workflows with **low-code/no-code** platforms and integrations like **Google Sheets**, **Excel**, and APIs.
 - 📴 **Offline-First Innovator**: Building robust apps and chatbots for enterprise use on local networks.
-- 👨‍🏫 **Tech Mentor**: Volunteering at **Makki Madani Islamic Centre** to teach kids **digital literacy** through fun, gamified lessons.
+
 
 ---
 
